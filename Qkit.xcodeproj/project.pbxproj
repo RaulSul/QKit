@@ -16,6 +16,7 @@
 		C4152C7025F29B4500B753D4 /* QKitRadioButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4152C6F25F29B4500B753D4 /* QKitRadioButton.swift */; };
 		C4152C7425F29B5B00B753D4 /* QKitSecondaryButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4152C7325F29B5B00B753D4 /* QKitSecondaryButton.swift */; };
 		C4152C7825F29B7A00B753D4 /* QKitSecondaryButtonReversed.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4152C7725F29B7A00B753D4 /* QKitSecondaryButtonReversed.swift */; };
+		C4422DC925F392C200B83553 /* QExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4422DC825F392C200B83553 /* QExtensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +42,7 @@
 		C4152C6F25F29B4500B753D4 /* QKitRadioButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QKitRadioButton.swift; sourceTree = "<group>"; };
 		C4152C7325F29B5B00B753D4 /* QKitSecondaryButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QKitSecondaryButton.swift; sourceTree = "<group>"; };
 		C4152C7725F29B7A00B753D4 /* QKitSecondaryButtonReversed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QKitSecondaryButtonReversed.swift; sourceTree = "<group>"; };
+		C4422DC825F392C200B83553 /* QExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QExtensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				C40BE92F25F298C3005E2431 /* Qkit.swift */,
+				C4422DC825F392C200B83553 /* QExtensions.swift */,
 				C4152C4125F2998300B753D4 /* QKitColors.swift */,
 				C4152C7E25F29BDB00B753D4 /* Buttons */,
 			);
@@ -158,6 +161,7 @@
 				C4152C4225F2998300B753D4 /* QKitColors.swift in Sources */,
 				C4152C6925F29B1200B753D4 /* QKitCheckBox.swift in Sources */,
 				C4152C6C25F29B2C00B753D4 /* QKitImageOnlyButton.swift in Sources */,
+				C4422DC925F392C200B83553 /* QExtensions.swift in Sources */,
 				C40BE93025F298C3005E2431 /* Qkit.swift in Sources */,
 				C4152C7825F29B7A00B753D4 /* QKitSecondaryButtonReversed.swift in Sources */,
 			);
